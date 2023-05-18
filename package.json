@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "hw-10-async-rewrite",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://GoodPointt.github.io/goit-js-hw-10",
+  "homepage": "https://GoodPointt.github.io/hw-10-async-rewrite",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /hw-10-async-rewrite/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoodPointt/goit-js-hw-10.git"
+    "url": "git+https://github.com/GoodPointt/hw-10-async-rewrite.git"
   },
   "keywords": [],
   "author": "Dmytro Petyshyn <dev6012@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GoodPointt/goit-js-hw-10/issues"
+    "url": "https://github.com/GoodPointt/hw-10-async-rewrite/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
